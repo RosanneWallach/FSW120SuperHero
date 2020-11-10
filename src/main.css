@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    margin-left: 50px;
+}
+.main > :nth-child(2) {
+    padding-left: 10px;
+    text-decoration: underline;
+}
+.image {
+    width: 18%;
+    height: 18%;
+}
